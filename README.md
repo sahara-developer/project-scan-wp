@@ -23,7 +23,7 @@ Scanner de reconocimiento web con enfoque en sitios WordPress. Detecta tecnolog√
 ## Instalaci√≥n
 
 ```bash
-git clone https://github.com/for-test0x/wp-recon.git
+git clone https://github.com/sahara-developer/project-scan-wp.git
 cd wp-recon
 pip install -r requirements.txt
 ```
